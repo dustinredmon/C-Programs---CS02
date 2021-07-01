@@ -1,7 +1,6 @@
 ########################################################################################
 # CS02 - C++ Projects
-# Description: A collection of various C++ programs that I wrote during the Fall 2018 
-# semester for my Introduction to Computer Science class.
+# Description: A collection of various C++ programs that I wrote during the Fall 2018 semester for my Introduction to Computer Science class.
 # Written by Dustin Redmon
 ########################################################################################
 
